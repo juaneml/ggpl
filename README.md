@@ -1,2 +1,2 @@
 ## ggpl
-#Geometric and Graphics Programming Laboratory
+# Geometric and Graphics Programming Laboratory
